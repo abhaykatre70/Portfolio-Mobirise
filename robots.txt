@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /cgi-bin
 
-Sitemap: https://186d0619-1b0e-4243-a693-ae620f76208f-00-2d6kkcqxpukir.pike.replit.dev/sitemap.xml
+Sitemap: https://abhaykatre70.github.io/Portfolio-Mobirise/sitemap.xml
